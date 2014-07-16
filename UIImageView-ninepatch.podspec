@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "UIImageView-ninepatch"
-  s.version      = "0.0.1"
+  s.version      = "0.1"
   s.summary      = "It's nine patch for UIImageView"
 
   s.description  = <<-DESC
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/huangxinping/UIImageView-ninepatch.git", :commit => "03e1e26b058031239be61d0aa54913e203ee7b39" }
+  s.source       = { :git => "https://github.com/huangxinping/UIImageView-ninepatch.git", :tag => "0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
