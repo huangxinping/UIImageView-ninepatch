@@ -1,9 +1,9 @@
 //
-//  UIImageView+_patch.h
-//  SWNinePatchImageFactorySample
+//  UIImageView+ninepatch.h
 //
-//  Created by iiseeuu on 14-7-15.
-//  Copyright (c) 2014年 TaccoTap. All rights reserved.
+//  Created by huangxinping
+//  The MIT Licence (MIT)
+//  Copyright (c) 2014 ShareMerge o0402@outlook.com
 //
 
 #import <UIKit/UIKit.h>
