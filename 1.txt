@@ -1,0 +1,500 @@
+   10  port
+   11  ls
+   12  pwd
+   13  exit
+   14  ping www.baidu.com
+   15  ping www.baidu.com
+   16  cd Desktop/
+   17  git clone https://github.com/huangxinping/Json2Object.git
+   18  ping 115.155.110.85
+   19  ssh root@115.155.110.85
+   20  ping 115.155.110.85
+   21  ping 61.155.110.85
+   22  ssh root@61.155.110.85
+   23  iftop
+   24  netstat
+   25  ping www.baidu.com
+   26  pod search 'VCTransitionLibrary'
+   27  pod search 'VCTransitionsLibrary'
+   28  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts
+   29  pod update
+   30  pod panorama
+   31  pod search 'panorama'
+   32  pod search 'panoramagl'
+   33  pod search 'hellopanoramagl'
+   34  pod search 'MBTileparser'
+   35  cd Desktop/
+   36  git clone https://github.com/huangxinping/iOS-push-library.git
+   37  cd Desktop/iOS-push-library/
+   38  ls
+   39  git add *
+   40  git commit "导入所有文件"
+   41  git commit -m "导入所有文件"
+   42  git push
+   43  git status
+   44  git log
+   45  cd Desktop/
+   46  git clone https://github.com/huangxinping/XCode-plugin.git
+   47  cd XCode-plugin/
+   48  ls
+   49  git add *
+   50  git commit -m "导入所有文件"
+   51  git push
+   52  cd Desktop/XCode-plugin/
+   53  ls
+   54  ls -all
+   55  git status
+   56  git log
+   57  git pushh
+   58  git push
+   59  touch README.md
+   60  git init
+   61  git add *
+   62  git commit -m "增加Readme"
+   63  git push
+   64  ls -all
+   65  cd ..
+   66  git clone https://github.com/huangxinping/XCode-plugin.git
+   67  git add *
+   68  cd XCode-plugin/
+   69  git add *
+   70  git commit -m "增加文件"
+   71  git push
+   72  git push
+   73  git push
+   74  cd Desktop/
+   75  git clone https://github.com/huangxinping/TesserectDemo.git
+   76  git add *
+   77  git commit -m "导入所有文件"
+   78  ls -all
+   79  rm -f .git
+   80  rm -r .git
+   81  rm -rf .git
+   82  ls -all
+   83  cd TesserectDemo/
+   84  ls
+   85  git add *
+   86  git commit -m "导入所有文件"
+   87  git push
+   88  cd Desktop/
+   89  git clone https://github.com/huangxinping/TRBox.git
+   90  cd TRBox/
+   91  git add *
+   92  git add*
+   93  git commit -m "导入所有文件"
+   94  git push
+   95  cd ..
+   96  git clone https://github.com/huangxinping/IdentityCard.git
+   97  cd IdentityCard/
+   98  git add *
+   99  git commit -m "导入所有文件"
+  100  git push
+  101  cd Desktop/
+  102  git clone https://github.com/huangxinping/m3u8player.git
+  103  git add 8
+  104  git add *
+  105  cd m3u8player/
+  106  git add *
+  107  git commit -m "导入所有文件"
+  108  git push
+  109  cd Desktop/
+  110  git clone https://github.com/huangxinping/rDice.git
+  111  cd rDice/
+  112  git add *
+  113  git commit -m "导入所有文件"
+  114  git push
+  115  cd Desktop/
+  116  git clone https://github.com/huangxinping/schemeApp2.git
+  117  cd schemeApp2/
+  118  git push
+  119  git commit -m "修改中文拔取逻辑"
+  120  git push
+  121  cd Library/Developer/CoreSimulator/Devices/
+  122  open .
+  123  cd Library/Developer/CoreSimulator/Devices/
+  124  open .
+  125  cd Library/Developer/CoreSimulator/Devices/
+  126  open .
+  127  cd Library/Developer/CoreSimulator/Devices/
+  128  open .
+  129  cd Des
+  130  cd Desktop/
+  131  git clone https://github.com/huangxinping/AudioRecord.git
+  132  cd /Users/huangxinping/Desktop/中国移动所需技术/iOSMp3Recorder/
+  133  ls -all
+  134  cd Desktop/AudioRecord/
+  135  git add *
+  136  git commit -m "导入所有文件"
+  137  git push
+  138  ;ls
+  139  ls
+  140  cd /
+  141  ls
+  142  cd usr/
+  143  ls
+  144  ssh -p 31805 vagrant@183.62.135.4
+  145  ssh -p 31805 vagrant@183.62.135.4
+  146  ssh -p 31805 vagrant@183.62.135.4
+  147  defaults write com.apple.mail NSPreferredMailCharset "GBK"
+  148  mysql
+  149  ping www.baidu.com
+  150  mysql
+  151  /usr/local/mysql -version
+  152  /usr/local/mysql-version
+  153  cd /usr/local/mysql
+  154  ls
+  155  cd bin/
+  156  ls
+  157  sudo mysql_secure_installation
+  158  sudo ./mysql_secure_installation
+  159  mysqladmin shutdown
+  160  cd /usr/local/mysql
+  161  ls
+  162  cd bin/
+  163  ls
+  164  mysql
+  165  ./mysql
+  166  ./mysql -version
+  167  mysql
+  168  mysql -version
+  169  mysqladmin -u root -p password mamawoaini
+  170  ln -s /usr/local/mysql/bin/mysql /usr/bin
+  171  sudo ln -s /usr/local/mysql/bin/mysql /usr/bin
+  172  mysqladmin -u root -p password mamawoaini
+  173  mysql
+  174  sudo mysqladmin -u root -p password mamawoaini
+  175  cd /usr/local/mysql
+  176  cd bin/
+  177  ls
+  178  ./mysqladmin -u root -p password mamawoaini
+  179  update
+  180  cd Desktop/
+  181  git clone 
+  182  git clone https://github.com/huangxinping/tesseract.git
+  183  git clone https://github.com/huangxinping/tesseract.git
+  184  bash /Users/huangxinping/Desktop/tesseract/build_dependencies.sh 
+  185  bash /Users/huangxinping/Desktop/tesseract/install_homebrew.rb 
+  186  cd Desktop/
+  187  cd tesseract
+  188  ls
+  189  git add *
+  190  git commit -m "导入脚本"
+  191  git push
+  192  pod search FormatterKit
+  193  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts/
+  194  pod update
+  195  pod search nsobject
+  196  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts/
+  197  open .
+  198  pod update
+  199  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts/
+  200  open .
+  201  pod update
+  202  pod update
+  203  ls
+  204  pwd
+  205  open .
+  206  cd Desktop/
+  207  git clone https://github.com/huangxinping/UIImageView-ninepatch.git
+  208  cd Desktop/UIImageView-ninepatch/
+  209  pod spec create
+  210  pod spec create UIImageView+ninepatch.podspec
+  211  pod spec create UIImageView+ninepatch
+  212  pod search 'UIImageView+ninepatch'
+  213  cd Desktop/UIImageView-ninepatch/
+  214  ls
+  215  pod spec lint UIImageView+ninepatch.podspec 
+  216  pod --version
+  217  clean
+  218  clear
+  219  ls
+  220  rm UIImageView+ninepatch.podspec 
+  221  pod spec help
+  222  ls
+  223  clear
+  224  pod spec create UIImageView+ninepatch https://github.com/huangxinping/UIImageView-ninepatch.git
+  225  pod spec lint UIImageView+ninepatch.podspec 
+  226  git status
+  227  git commit -m "podspec"
+  228  git log
+  229  git ta -a 0.1 -m "Tagged version 0.1"
+  230  git tag -a 0.1 -m "Tagged version 0.1"
+  231  git tag -a 0.2 -m "Tagged version 0.2"
+  232  git tag
+  233  git push --tags
+  234  cd Desktop/
+  235  git clone https://github.com/huangxinping/UIImageView-ninepatch.git
+  236  cd UIImageView
+  237  cd UIImageView+ninepatch.
+  238  cd UIImageView+ninepatch
+  239  ls
+  240  cd UIImageView-ninepatch
+  241  clear
+  242  pod spec create UIImageView-ninepatch https://github.com/huangxinping/UIImageView-ninepatch.git
+  243  clear
+  244  ls 
+  245  git spec lint UIImageView-ninepatch.podspec 
+  246  pod spec lint UIImageView-ninepatch.podspec 
+  247  pod spec lint UIImageView-ninepatch.podspec 
+  248  pod spec lint UIImageView-ninepatch.podspec 
+  249  pod spec lint UIImageView-ninepatch.podspec 
+  250  git status
+  251  git tahgs
+  252  git tags
+  253  git tag
+  254  git tag -help
+  255  git tag -d 0.1
+  256  git tag
+  257  git tag -a 0.1 -m "Tagged add"
+  258  git tag
+  259  git tag -a 0.1 -m "Tagged add"
+  260  pod spec lint UIImageView-ninepatch.podspec 
+  261  pod spec lint UIImageView-ninepatch.podspec 
+  262  pod spec lint UIImageView-ninepatch.podspec 
+  263  pod spec lint UIImageView-ninepatch.podspec 
+  264  cd Desktop/UIImageView-ninepatch/
+  265  ls
+  266  git status
+  267  git tag
+  268  git add *
+  269  git commit -m "Modified podspec"
+  270  git pull
+  271  git push
+  272  git status
+  273  git log
+  274  git tag
+  275  clear
+  276  pod spec lint UIImageView-ninepatch.podspec 
+  277  git tag -d '0.1'
+  278  git tag
+  279  git log
+  280  clear
+  281  pod spec lint UIImageView-ninepatch.podspec 
+  282  git push origin master
+  283  git tag
+  284  clear
+  285  git tag -a 0.1 -m "Tagged version 0.1"
+  286  git tag
+  287  git push --tags
+  288  pod spec lint UIImageView-ninepatch.podspec 
+  289  cd ..
+  290  ls
+  291  pwd
+  292  git clone https://github.com/huangxinping/Specs.git
+  293  cd Specs/
+  294  ls
+  295  cd Specs/
+  296  ls
+  297  mkdir SMNinepatch
+  298  ls
+  299  ls -all
+  300  ls -a
+  301  pwd
+  302  cd SMNinepatch/
+  303  ls
+  304  mkdir 0.1/
+  305  ls
+  306  cp ~/Desktop/UIImageView-ninepatch/UIImageView-ninepatch.podspec 0.1/
+  307  ls
+  308  cd 0.1/
+  309  ls
+  310  g
+  311  git add .
+  312  git commit -m "Added SMNinePatch"
+  313  git push origin master
+  314  cd ~
+  315  cd Desktop/
+  316  clear
+  317  pod search "UIImageView-ninepatch"
+  318  pod "UIImageView-ninepatch"
+  319  pod search "UIImageView-ninepatch"
+  320  pod search "UIImageView-ninepatch"
+  321  pod search 'UIImageView+ninepatch'
+  322  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts/
+  323  pod update
+  324  pod update
+  325  pod search "ios-realtimeblur"
+  326  pod search "realtimeblur"
+  327  pod search 'ios-realtimeblur'
+  328  pod update
+  329  pod update
+  330  pod update
+  331  pod update
+  332  clear
+  333  pod search 'nine'
+  334  pod search 'ninepatch'
+  335  clear
+  336  cd Desktop/UIImageView-ninepatch/
+  337  ls
+  338  pod lint UIImageView-ninepatch.podspec 
+  339  pod spec lint UIImageView-ninepatch.podspec 
+  340  gem install nomad-cli
+  341  clear
+  342  clear
+  343  pod trunk register o0402@outlook.com "huangxinping"
+  344  ls
+  345  pod trunk push UIImageView-ninepatch.podspec 
+  346  pod search 'UIImageView+ninepatch'
+  347  pod search 'UIImageView-ninepatch'
+  348  cd ..
+  349  pwd
+  350  git clone https://github.com/CocoaPods/Specs.git
+  351  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts/
+  352  pod update
+  353  cd /Users/huangxinping/Desktop/UIImageView-ninepatch
+  354  ls
+  355  git status
+  356  git log
+  357  clear
+  358  git loh
+  359  git log
+  360  git add *
+  361  git commit -m "Update podspec"
+  362  git push
+  363  git status
+  364  pod search 'ninepatch'
+  365  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts/
+  366  git submodule add -f https://github.com/huangxinping/MJRefresh.git Vendor/MJRefresh
+  367  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts
+  368  open .
+  369  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts
+  370  pod update
+  371  open .
+  372  open .
+  373  pod update
+  374  cd /Users/huangxinping/
+  375  ls -all
+  376  cd Library/
+  377  open .
+  378  pod search 'MONActivity'
+  379  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts
+  380  ope .
+  381  open .
+  382  pod update
+  383  open .
+  384  pod search 'MONActivity'
+  385  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts
+  386  clear
+  387  ls
+  388  git submodule add -f https://github.com/mownier/MONActivityIndicatorView.git Vendor/MONActivityIndicatorView
+  389  cd Desktop/
+  390  git clone https://github.com/huangxinping/UIImageView-ninepatch.git
+  391  git add *
+  392  cd UIImageView-ninepatch/
+  393  git add *
+  394  git commit -m "Fixed bugs."
+  395  git push
+  396  history
+  397  pod trunk push UIImageView-ninepatch.podspec
+  398  pod spec lint UIImageView-ninepatch.podspec 
+  399  git tag -a 0.2 -m "Tagged version 0.2"
+  400  git tag
+  401  git push --tags
+  402  git spec lint UIImageView-ninepatch.podspec 
+  403  pod spec lint UIImageView-ninepatch.podspec 
+  404  pod trunk push UIImageView-ninepatch.podspec
+  405  git push
+  406  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts
+  407  open .
+  408  pod update
+  409  cd Desktop/UIImageView-ninepatch/
+  410  ls
+  411  clear
+  412  git add *
+  413  git commit -m "Fixed bug."
+  414  git push
+  415  git tag -a 0.3 -m "Tagged version 0.3"
+  416  git push --tags
+  417  git tag
+  418  pod spec lint UIImageView-ninepatch.podspec 
+  419  pod trunk push UIImageView-ninepatch.podspec
+  420  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts
+  421  pod update
+  422  cd Desktop/
+  423  lipo -create /Users/huangxinping/Desktop/libShareMergeQ-s.a /Users/huangxinping/Desktop/libShareMergeQ-d.a ~/Desktop/ShareMergeQ.a
+  424  lipo -create /Users/huangxinping/Desktop/libShareMergeQ-s.a /Users/huangxinping/Desktop/libShareMergeQ-d.a -output ~/Desktop/ShareMergeQ.a
+  425  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/爱西柚/集团通讯录/GroupContacts-iPhone/Vendor 
+  426  ls
+  427  cd ShareMerge/
+  428  ls
+  429  ls -all
+  430  git pull origin master
+  431  git pull origin master
+  432  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/爱西柚/集团通讯录/GroupContacts-iPhone
+  433  pod update
+  434  open .
+  435  ping www.baidu.com
+  436  lipo -create /Users/huangxinping/Desktop/libSMAESEncrypt-d.a /Users/huangxinping/Desktop/libSMAESEncrypt.a -output ~/Desktop/SMAESEncrypt.a
+  437  file /Users/huangxinping/Library/Developer/Xcode/DerivedData/App-eoapwbquzphfbefjvhirjzqhlhok/Build/Products/Debug-iphoneos/libSMAESEncrypt.a 
+  438  file /Users/huangxinping/Library/Developer/Xcode/DerivedData/App-eoapwbquzphfbefjvhirjzqhlhok/Build/Products/Debug-iphonesimulator/libSMAESEncrypt.a 
+  439  info /Users/huangxinping/Library/Developer/Xcode/DerivedData/App-eoapwbquzphfbefjvhirjzqhlhok/Build/Products/Debug-iphonesimulator/libSMAESEncrypt.a 
+  440  info /Users/huangxinping/Library/Developer/Xcode/DerivedData/App-eoapwbquzphfbefjvhirjzqhlhok/Build/Products/Debug-iphonesimulator/libSMAESEncrypt.a  > ~/Desktop/1.txt
+  441  pod search 'LASIImageView'
+  442  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts 
+  443  pod update
+  444  clear
+  445  pwd
+  446  git submodule add -f https://github.com/smileEvday/SvUDID.git Vendor/SvUDID
+  447  ping www.baidu.com
+  448  ping www.baidu.com
+  449  ping www.baidu.com
+  450  ping www.baidu.com
+  451  cd Library/
+  452  open .
+  453  cd /Users/huangxinping/Library/Developer/CoreSimulator/Devices
+  454  p[en .; ; exit; q
+  455  cd Library/Developer/CoreSimulator/
+  456  open .
+  457  cd Devices/
+  458  cd ~/Desktop/
+  459  git clone https://github.com/huangxinping/Json2Object.git
+  460  cd Desktop/Json2Object/
+  461  ls
+  462  git add *
+  463  git commit -m "增加文件导出功能"
+  464  git push
+  465  cd Desktop/Json2Object/
+  466  git add *
+  467  git commit -t "修改版权信息"
+  468  git commit -m "修改版权信息"
+  469  git push
+  470  cd Desktop/
+  471  git clone https://github.com/huangxinping/Json2Object.git
+  472  cd /Users/huangxinping/Desktop/Json2Object 
+  473  git add *
+  474  git commit -m "增加导出路劲设置"
+  475  git push
+  476  pod search 'WTReTextField'
+  477  cd /Users/huangxinping/Desktop/Json2Object/
+  478  git status
+  479  cd Desktop/
+  480  git clone https://github.com/pieceofsummer/WTReTextField.git
+  481  cd /Users/huangxinping/Documents/MAC-all-repository/工作开发/自己/CarParts 
+  482  open .
+  483  pod update
+  484  pod update
+  485  pod update
+  486  pwd
+  487  ls
+  488  git submodule add -f https://github.com/huangxinping/JYTextField.git Vendor/JYTextField
+  489  cd Desktop/
+  490  git clone https://github.com/huangxinping/JYTextField.git
+  491  git add *
+  492  cd JYTextField/
+  493  git add *
+  494  git commit -m "导入所有文件"
+  495  git psuh
+  496  git push
+  497  git add *
+  498  git commit -m "修改demo"
+  499  git pushh
+  500  git push
+  501  cd Desktop/
+  502  git clone https://github.com/huangxinping/UIImageView-ninepatch.git
+  503  git clone https://github.com/huangxinping/JYTextField.git
+  504  cd /Users/huangxinping/Desktop/UIImageView-ninepatch/
+  505  git add *
+  506  git commit -m "Fixed bug"
+  507  git push
+  508  histoty > 1.txt
+  509  history > 1.txt

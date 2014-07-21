@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "UIImageView-ninepatch"
-  s.version      = "0.3"
+  s.version      = "0.4"
   s.summary      = "It's nine patch for UIImageView"
 
   s.description  = <<-DESC
