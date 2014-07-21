@@ -128,14 +128,14 @@
 
 	NSArray *topBarRgba = [rgbaImage subarrayWithRange:NSMakeRange(1, ninePatchImage.size.width - 2)];
 	NSMutableArray *leftBarRgba = [NSMutableArray arrayWithCapacity:0];
-	int count = [rgbaImage count];
+	int count = (int)[rgbaImage count];
 
 	for (int i = 0; i < count; i += ninePatchImage.size.width) {
 		[leftBarRgba addObject:rgbaImage[i]];
 	}
 
 	int top = -1, left = -1, bottom = -1, right = -1;
-	count = [topBarRgba count];
+	count = (int)[topBarRgba count];
 
 	for (int i = 0; i <= count - 1; i++) {
 		NSArray *aColor = topBarRgba[i];
