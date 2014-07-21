@@ -117,8 +117,8 @@
 }
 
 + (UIImage *)createResizableImageFromNinePatchImage:(UIImage *)ninePatchImage {
-	if (!ninePatchImage) {
-		return nil;
+	if (!ninePatchImage || ninePatchImage.size.width <= 2) {
+		return ninePatchImage;
 	}
 	NSArray *rgbaImage = [self getRGBAsFromImage:ninePatchImage atX:0 andY:0 count:ninePatchImage.size.width * ninePatchImage.size.height];
 
